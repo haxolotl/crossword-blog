@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi. I'm sam and I have a bunch of incomplete projects. This blog is about taking some accountability to put some of them out there into the world. 
+      Starting with my recent obsession with Cryptic Crosswords. In recent months I've gone from fairly unaware of crosswords to attempting to write and
+      refine new Cryptic Puzzles on a let's say bi-weekly basis. Hopefully I won't regret that promise.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
